@@ -1,5 +1,6 @@
 # Nintendo Switch Traduções
 ### Site desenvolvido conforme as rúbricas do Assessment Frameworks Front End e Conexão com Back-End utilizando vue.js
+### https://anathsu.github.io/
 
 
 #### No Assessment, devemos construir uma aplicação:
